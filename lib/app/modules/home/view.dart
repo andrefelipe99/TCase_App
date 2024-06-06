@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:tcase_app/app/core/utils/extensions.dart';
-import 'package:tcase_app/app/data/models/task.dart';
 import 'package:tcase_app/app/modules/home/controller.dart';
 import 'package:tcase_app/app/modules/home/widgets/add_card.dart';
 import 'package:tcase_app/app/modules/home/widgets/task_card.dart';

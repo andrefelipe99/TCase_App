@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get/get.dart';
 import 'package:tcase_app/app/core/utils/extensions.dart';
-import 'package:tcase_app/app/core/values/colors.dart';
 import 'package:tcase_app/app/data/models/task.dart';
 import 'package:tcase_app/app/modules/home/controller.dart';
 import 'package:tcase_app/app/widgets/icons.dart';
