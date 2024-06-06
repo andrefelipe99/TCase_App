@@ -22,7 +22,7 @@ class AddCard extends StatelessWidget {
       child: InkWell(
         onTap: () async {
           await Get.defaultDialog(
-              titlePadding: EdgeInsets.symmetric(vertical: 5.0.wp),
+              titlePadding: EdgeInsets.symmetric(vertical: 4.0.wp),
               radius: 5,
               title: 'Task Type',
               content: Form(
