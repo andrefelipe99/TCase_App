@@ -46,7 +46,7 @@ class AddCard extends StatelessWidget {
                       ),
                     ),
                     Padding(
-                      padding: EdgeInsets.symmetric(vertical: 5.0.wp),
+                      padding: EdgeInsets.symmetric(vertical: 3.5.wp),
                       child: Wrap(
                         spacing: 2.0.wp,
                         children: icons
